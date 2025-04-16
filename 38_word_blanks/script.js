@@ -40,5 +40,7 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 
 // Only change code below this line
-const wordBlanks = ""; // Change this line
+const wordBlanks = "I met a " + myNoun + " and he was very " + myAdjective + " and " + myVerb + " very " + myAdverb; // Change this line
 // Only change code above this line
+
+console.log(wordBlanks);
